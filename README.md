@@ -27,8 +27,10 @@ Pada tugas terakhir, saya mengimplementasikan kode dalam skenario dunia nyata, s
 # Cara Menjalankan Program:
 1. Pastikan Node.js telah terinstal pada Laptop/Komputer.
 2. Clone repository ini atau unduh berkasnya.
-3. Buka terminal dan arahkan ke direktori proyek.
-4. Jalankan perintah berikut untuk setiap tugas:
+      ```bash
+   git clone https://github.com/azkalltlhn/FinalTask-JavaScript-Dicoding-AzkaLailatul.git
+4. Buka terminal dan arahkan ke direktori proyek.
+5. Jalankan perintah berikut untuk setiap tugas:
    ```bash
    node main.js
 
